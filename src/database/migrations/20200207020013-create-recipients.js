@@ -7,7 +7,7 @@ module.exports = {
         autoIncrement: true,
         primaryKey: true,
       },
-      nomeDest: {
+      nome: {
         type: Sequelize.STRING,
         allowNull: false,
       },
